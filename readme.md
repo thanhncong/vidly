@@ -1,1 +1,1 @@
-hello
+Vidly App
